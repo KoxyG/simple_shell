@@ -44,5 +44,11 @@ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
 
 INVOCATION
 
+AUTHORS
 
+👤 PROGRESS OCHUKO EYAADAH
+GitHub:
+Twitter: 
+LinkedIn:
 
+👤
