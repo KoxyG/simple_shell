@@ -326,4 +326,9 @@ $
 - Twitter: [@koxyG_codes](https://twitter.com/koxyG_codes)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/progress-eyaadah-18947a1b2)
 
-👤 
+👤 **IDAYAT OLUWATOYIN ADEYEMO**
+
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/idayat-adeyemo-8068a0234)
+- Github: [@idayat](https://github.com/IdayatAdeyemo)
+
+
