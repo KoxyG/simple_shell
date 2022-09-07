@@ -45,5 +45,10 @@ int _mycd(info_t *info)
 	{
 		dir = _getenc(info, "HOME=");
 		if (!dir)
-			chdir_ret = /*
+			chdir_ret = /* TODO: what should this be? */
+				chdir((dir = _getenv(info, "PWD=")) ? dir : "/");
+	else
+		chdir_ret = chdir(dir);
 	}
+	else if
+}
